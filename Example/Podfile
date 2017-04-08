@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CPProgress_Example' do
+  pod 'CPProgress', :path => '../'
+
+  target 'CPProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
