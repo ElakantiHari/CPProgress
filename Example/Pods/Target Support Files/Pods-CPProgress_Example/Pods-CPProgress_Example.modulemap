@@ -1,0 +1,6 @@
+framework module Pods_CPProgress_Example {
+  umbrella header "Pods-CPProgress_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

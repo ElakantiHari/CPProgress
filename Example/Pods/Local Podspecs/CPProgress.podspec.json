@@ -1,0 +1,22 @@
+{
+  "name": "CPProgress",
+  "version": "0.1.0",
+  "summary": "A Circuler Progressbar that contains pause, resume timer in background options.",
+  "description": "TODO: A Circuler Progressbar that contains pause, resume timer in background options and many more...",
+  "homepage": "https://github.com/ElakantiHari/CPProgress",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ElakantiHari": "harielakanti@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ElakantiHari/CPProgress.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CPProgress/Classes/**/*"
+}

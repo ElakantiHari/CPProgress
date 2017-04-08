@@ -1,0 +1,16 @@
+PODS:
+  - CPProgress (0.1.0)
+
+DEPENDENCIES:
+  - CPProgress (from `../`)
+
+EXTERNAL SOURCES:
+  CPProgress:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CPProgress: c20d165c2d16a89099ed2ee74951d85c540f79de
+
+PODFILE CHECKSUM: 8dc0cf6b4a0ca4ad2ce6f6f12ff437e59c26a69e
+
+COCOAPODS: 1.2.1.rc.1

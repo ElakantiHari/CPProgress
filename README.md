@@ -5,11 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/CPProgress.svg?style=flat)](http://cocoapods.org/pods/CPProgress)
 [![Platform](https://img.shields.io/cocoapods/p/CPProgress.svg?style=flat)](http://cocoapods.org/pods/CPProgress)
 
+## Requirements
+* ARC
+* iOS8
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
 
 ## Installation
 
